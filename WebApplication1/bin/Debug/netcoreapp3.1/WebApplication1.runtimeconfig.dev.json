@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\yogma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\yogma\\.nuget\\packages"
+    ]
+  }
+}
